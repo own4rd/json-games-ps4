@@ -1,5 +1,5 @@
-# json-games-ps4
-Arquivo Json de Games PS4 (2019)
+# Json Games PS4
+Arquivo Json de jogos para PS4 (2019)
 
 Lista gerada automaticamente por algoritmo desenvolvido em Python + DOCX
 
